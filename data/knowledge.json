@@ -1,0 +1,9 @@
+{
+  "summary": {
+    "total": 0,
+    "by_scope": { "project": 0, "org": 0, "global": 0 },
+    "by_category": { "pattern": 0, "decision": 0, "incident": 0, "discovery": 0 }
+  },
+  "entries": [],
+  "graph": { "nodes": [], "edges": [] }
+}

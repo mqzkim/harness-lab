@@ -1,0 +1,7 @@
+{
+  "department": "Research",
+  "last_sync": "2026-03-30T00:00:00Z",
+  "version": "1.0.0",
+  "covers": ["knowledge", "simulations", "debates"],
+  "pages": ["/knowledge-graph", "/simulations"]
+}

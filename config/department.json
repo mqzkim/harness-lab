@@ -1,0 +1,13 @@
+{
+  "name": "Research",
+  "slug": "lab",
+  "color": "#10B981",
+  "icon": "🔬",
+  "description": "지식 축적·시뮬레이션·토론 연구",
+  "personas": ["Researcher", "Ontologist", "Hacker"],
+  "scope": {
+    "tables": ["knowledgeEntries", "simulations"],
+    "actions": ["knowledge.ts", "simulations.ts"],
+    "pages": ["knowledge-graph", "simulations"]
+  }
+}
